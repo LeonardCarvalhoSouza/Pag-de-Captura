@@ -1,3 +1,3 @@
 # Pag-de-Captura
 Simulação de captação para uma palestra.
-![image](https://user-images.githubusercontent.com/96206036/146262523-973053d4-4601-47b3-8cee-d5f578e5d722.png)
+![Sem título](https://user-images.githubusercontent.com/96206036/146262733-06fcbb52-713f-4376-ae39-550f6d68693f.png)
